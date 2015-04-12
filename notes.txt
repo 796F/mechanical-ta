@@ -1,0 +1,18 @@
+4/11 Saturday
+
+spent all day today reading and learning about existing image analysis
+deciding on the langauge
+thinking about how turks fit into this.  
+decided on opencv, decided on python, based mostly on a single blog post.  
+found problems with installing, had to compile opencv from source.  
+    thank god for https://ceciliavision.wordpress.com/2014/10/28/installing-opencv-2-4-10-on-yosemite/,
+    used that to compile, and then compile the python module,
+    moved the module to site-packages and managed to import it.  
+
+also used brew to install numpy and matplotlib
+
+tried the basic example of loading an image from 
+    https://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html#display-image
+
+and that just made my day, seeing the image displayed was gratifying!  
+
